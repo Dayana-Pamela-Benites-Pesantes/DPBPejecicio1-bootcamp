@@ -1,0 +1,15 @@
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.Repository.deps.json
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.Repository.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.Repository.pdb
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.Model.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\bin\Debug\net6.0\Bootcamp.Model.pdb
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.csproj.AssemblyReference.cache
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.AssemblyInfoInputs.cache
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.AssemblyInfo.cs
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.csproj.CopyComplete
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\refint\Bootcamp.Repository.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\Bootcamp.Repository.pdb
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.Repository\obj\Debug\net6.0\ref\Bootcamp.Repository.dll

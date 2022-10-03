@@ -1,0 +1,12 @@
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.deps.json
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\bin\Debug\net6.0\Bootcamp.ViewModel.pdb
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.csproj.AssemblyReference.cache
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.AssemblyInfoInputs.cache
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.AssemblyInfo.cs
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\refint\Bootcamp.ViewModel.dll
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\Bootcamp.ViewModel.pdb
+E:\CICLO VIII\Importante\sesion1\DPBPejecicio1-bootcamp\Bootcamp.ViewModel\obj\Debug\net6.0\ref\Bootcamp.ViewModel.dll
